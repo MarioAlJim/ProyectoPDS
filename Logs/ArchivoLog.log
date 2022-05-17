@@ -1,0 +1,72 @@
+2022-04-17 19:53:35 ERROR HorarioDAO:81 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-04-17 19:55:00 FATAL HorarioDAO:81 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-05-04 22:37:06 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:38:38 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:39:09 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:39:49 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:39:59 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:41:49 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:55:21 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:56:39 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 22:59:48 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 23:01:37 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-04 23:01:48 FATAL OfertaAcademicaDAO:50 - java.sql.SQLException: Column 'Experiencia' not found.
+2022-05-06 00:28:53 FATAL TutorDAO:50 - java.sql.SQLException: Column 'Paterno' not found.
+2022-05-06 01:03:09 FATAL TutoradoDAO:128 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:06:00 FATAL TutoradoDAO:129 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:09:14 FATAL TutoradoDAO:129 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:15:36 FATAL TutoradoDAO:126 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:18:34 FATAL TutoradoDAO:126 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:21:12 FATAL TutoradoDAO:126 - java.sql.SQLException: No se encontraron tutorados
+2022-05-06 01:21:42 FATAL TutoradoDAO:126 - java.sql.SQLException: Parameter index out of range (0 < 1 ).
+<<<<<<< HEAD
+2022-05-06 14:02:15 FATAL TutorDAO:50 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-05-13 16:57:50 FATAL TutorDAO:51 - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost/sistematutoriasfei
+=======
+2022-05-06 14:19:15 FATAL TutorDAO:50 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-05-06 17:46:50 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 's2938' for key 'PRIMARY'
+2022-05-06 17:53:12 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 's2938' for key 'PRIMARY'
+2022-05-06 18:18:36 ERROR TutorDAO:40 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'contrasena' at row 1
+2022-05-06 18:18:37 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-06 18:19:33 ERROR TutorDAO:40 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'contrasena' at row 1
+2022-05-06 18:19:33 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-06 18:20:33 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-07 21:47:58 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:47:59 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:47:59 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:48:00 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:48:01 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:49:48 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:50:11 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 21:51:21 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-07 22:01:54 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 's2938' for key 'PRIMARY'
+2022-05-07 22:37:11 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'Nombre' cannot be null
+2022-05-07 22:37:16 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-07 22:39:28 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-05-07 22:39:28 FATAL TutorDAO:81 - com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-05-07 22:42:39 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 22:45:58 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 22:48:34 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 22:49:32 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 22:50:43 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 23:02:13 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 23:05:46 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'ApellidoMaterno' cannot be null
+2022-05-07 23:07:10 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'ajf' for key 'PRIMARY'
+2022-05-07 23:07:11 FATAL TutorDAO:81 - java.sql.SQLException: No se encontraron cuentasUV
+2022-05-08 13:11:00 ERROR TutorDAO:40 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'Correo' cannot be null
+>>>>>>> 85199db5f4650e617c67c1bad9cfa08f58301a63
+2022-05-16 19:16:38 FATAL OfertaAcademicaDAO:96 - java.sql.SQLException: No se encontraron datos
+2022-05-16 19:16:40 FATAL OfertaAcademicaDAO:96 - java.sql.SQLException: No se encontraron datos
+2022-05-16 19:37:28 FATAL SesionTutoriaDAO:40 - java.sql.SQLException: No se encontraron datos
